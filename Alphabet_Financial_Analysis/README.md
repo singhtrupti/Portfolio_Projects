@@ -1,6 +1,6 @@
 # Alphabet (Google) Financial Performance Analysis, FY2019–FY2025
 
-> 🤖 **Built with Claude Code (an AI coding assistant).** Claude Code helped write the Python scripts and draft the SQL. I chose the questions, checked the figures against the 10-K filings, built the Tableau dashboard, and reviewed and ran every query. For a project I wrote entirely by hand, see [COVID-19 SQL Data Exploration](../SQL_Data_Exploration.sql).
+> **Built with Claude Code (an AI coding assistant).** Claude Code helped write the Python scripts and draft the SQL. I chose the questions, checked the figures against the 10-K filings, built the Tableau dashboard, and reviewed and ran every query. For a project I wrote entirely by hand, see [COVID-19 SQL Data Exploration](../SQL_Data_Exploration.sql).
 
 **Tools:** SQL (SQLite, written to work in BigQuery with small changes) · Tableau Public · Python (pandas, matplotlib) · Excel-style financial ratios
 **Data:** Alphabet Form 10-K filings from SEC EDGAR, 7 fiscal years, all figures in $ millions
